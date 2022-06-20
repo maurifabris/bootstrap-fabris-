@@ -1,0 +1,52 @@
+
+
+header{
+    background-color: brown;
+}
+header nav div ul li a {
+    text-decoration: none;
+}
+body{
+    background-color: black;
+    min-width: 500px;
+}
+
+.nav-item{
+    margin-left: 10vh;
+}
+
+.bsas{
+    color: brown;
+}
+
+img{
+    max-width: 200px;
+    max-height: 112px;
+}
+.col{
+    margin-top: 25vh;
+}
+/*
+.barra{
+    @media screen and {min-width: none;
+    }
+
+}
+
+trate de usar min width para que no se rompa la nav cuando achico la pantalla pero no funciona */
+.pie{
+    bottom: 0;
+}
+
+.columna2{ /* agregado para dejar mas estetico el footer*/
+    margin-bottom: 4vh;
+    align-items: center;
+}
+
+footer{
+    align-content: center;
+}
+img{
+    align-self: center;
+}
+
